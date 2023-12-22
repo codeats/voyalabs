@@ -1,5 +1,7 @@
 Asset Download link :- https://github.com/codeats/voyalabs/archive/refs/heads/main.zip
 
+video link : - https://player.vimeo.com/video/764513434?color=ffffff&badge=0&title=0&byline=0&portrait=0&loop=1&autoplay=1&api=1
+
 lottie1 :- https://lottie.host/3867ffb7-04a5-493b-9782-20c3fdb86255/pGLEkVehTH.json
 lottie2 :- https://lottie.host/3f40d18a-6080-4d2c-9e53-c322973e323a/N2e2K1b1ch.json
 lottie3 :- https://lottie.host/881fab4c-620d-480d-9b79-9e3a8e80406b/A02aW2kYdD.json
